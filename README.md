@@ -1,2 +1,5 @@
 # CS32-Project-4
-Hash table implementation using supporting data structures vectors and lists
+
+Spring 2021
+Hash table implementation using supporting data structures such vectors and lists
+
